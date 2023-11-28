@@ -1,0 +1,4 @@
+whoami             (to know which user is using)
+pwd                (print working directory)
+date               (get date)
+chmod
