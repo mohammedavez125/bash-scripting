@@ -1,4 +1,12 @@
-whoami             (to know which user is using)
-pwd                (print working directory)
-date               (get date)
-chmod
+whoami                 (to know which user is using)
+pwd                    (print working directory)
+date                   (get date)
+chmod +x <filename>    (giving exec perms)
+ls -al             
+======================================
+          {default variable}
+$RANDOM                (generate random number)
+$SHELL
+$PWD
+$HOSTNAME
+$((<arithmetic_expression>))
