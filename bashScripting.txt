@@ -14,6 +14,7 @@ sleep <integer>                           (wait)
 read <variable>                           (get user input)
                           or
 variable=$1                               ()
+$(command)                                (to exec command)
 =========================
 
 
