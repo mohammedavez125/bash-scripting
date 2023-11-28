@@ -1,0 +1,20 @@
+nano <file_name> 
+{
+#!/bin/bash
+<bash script>
+}
+ctrl X , Y , Entr                         (to save changes).
+./<file_name> args
+=========================
+shebang --> '#!'                          (nerd fact)
+=========================
+echo 'string $variable'                   (repeat/print)
+sleep <integer>                           (wait)
+=========================
+read <variable>                           (get user input)
+                          or
+variable=$1                               ()
+=========================
+
+
+
